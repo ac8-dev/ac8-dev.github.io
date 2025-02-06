@@ -83887,7 +83887,7 @@ A.cg(b).toString
 b=$.dJ()
 a=b.d
 if(a==null){a=self.window.devicePixelRatio
-if(a===0)a=1}if(c.cW(0,a).a>$.o().n(500))c=$.o().n(500)
+if(a===0)a=1}if(c.cW(0,a).a>$.o().n(500))c=q<=3?$.o().n(198):$.o().n(500)
 else{c=$.az().xr
 c=$.a4.O$.x.k(0,c)
 c.toString
